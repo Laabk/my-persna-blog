@@ -40,7 +40,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://.vercel.app/"
+              href="https://laabgaria.vercel.app/"
             >
               See My Works
             </a>
